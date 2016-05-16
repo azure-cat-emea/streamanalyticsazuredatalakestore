@@ -275,7 +275,7 @@ The following image shows how you can use **Azure Data Lake Store Explorer** in 
 # Custom Azure Data Lake Store Explorer #
 This application can be used to navigate and read the data stored in a **JSON Array** format in any file contained in an **Azure Data Lake Store** account. This application represent the embryo of a general purpose **Azure Data Lake Store Explorer**.
 
-![](https://raw.githubusercontent.com/azure-cat-emea/streamanalyticsazuredatalakestore/master/Images/VisualStudioDataLakeExplorer.png)
+![](https://raw.githubusercontent.com/azure-cat-emea/streamanalyticsazuredatalakestore/master/Images/Explorer.png)
 
 The following table contains a snippet from the configuration file. Make sure to replace the placeholders in the **appSettings** section with valid values before testing the application. For more information, see [Get started with Azure Data Lake Store using .NET SDK](https://azure.microsoft.com/en-us/documentation/articles/data-lake-store-get-started-net-sdk/).
 
