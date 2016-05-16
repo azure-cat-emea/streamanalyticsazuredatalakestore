@@ -27,6 +27,23 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "JobQueries", "JobQueries", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLakeExplorer", "DataReader\DataLakeExplorer.csproj", "{1746D00F-0F6C-477C-BEC8-0630D39E04A3}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{A7CDEC3C-5F4B-4784-9283-231033962B93}"
+	ProjectSection(SolutionItems) = preProject
+		Images\Architecture.png = Images\Architecture.png
+		Images\Data.png = Images\Data.png
+		Images\DataExplorer.png = Images\DataExplorer.png
+		Images\DataLakeStore.png = Images\DataLakeStore.png
+		Images\DeviceSimulator.png = Images\DeviceSimulator.png
+		Images\Explorer.png = Images\Explorer.png
+		Images\Input01.png = Images\Input01.png
+		Images\Input02.png = Images\Input02.png
+		Images\Output01.png = Images\Output01.png
+		Images\Output02.png = Images\Output02.png
+		Images\Portal.png = Images\Portal.png
+		Images\VisualStudio.png = Images\VisualStudio.png
+		Images\VisualStudioDataLakeExplorer.png = Images\VisualStudioDataLakeExplorer.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
