@@ -172,6 +172,7 @@
     <Content Include="Icons\WindowsAzureLogo.ico" />
     <Content Include="Images\AzureLogo.png" />
     <None Include="Images\DataLake.png" />
+    <Content Include="Images\DeviceSimulator.png" />
     <Content Include="Images\Input01.png" />
     <Content Include="Images\Output01.png" />
     <Content Include="Images\Output02.png" />
